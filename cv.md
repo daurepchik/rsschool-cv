@@ -22,3 +22,25 @@
   * **2017 - 2021**: Syleyman Demirel University, _'Information Systems'_ bachelor degree
   * **30.03.2020 - 08.05.2020**: Certificate during Kaspi Lab training program, direction: Data Engineering.
   * **2019**: Certificate of Achievement during SDU Cisco day at a “Packet Tracer Troubleshooting” challenge
+  
+  **Languages**:
+<table>
+ <th>Language</th>
+ <th>Level</th>
+ <tr>
+   <td>Russian</td>
+   <td>Advanced</td>
+ </tr>
+ <tr>
+   <td>Kazakh</td>
+   <td>Upper-Intermediate</td>
+ </tr>
+ <tr>
+   <td>English</td>
+   <td>Intermediate</td>
+ </tr>
+ <tr>
+   <td>Turkish</td>
+   <td>Elementary</td>
+ </tr>
+</table>
