@@ -3,6 +3,7 @@
 * Phone number: **+7(778)925-90-03**
 * Email: **<a href="mailto:daurenblin5@gmail.com">daurenblin5@gmail.com</a>**
 * Telegram: [@Aidenov](t.me/aidenov)
+* Whatsapp: [Me on Whatsapp](wa.me/+77789259003)
 
 > My name is Aidenov Dauren, and I'm graduate of Information Systems at Suleyman Demirel University (SDU).
 > Now I'm looking for opportunities to improve my existing ones or get more new knowledge, that will help
